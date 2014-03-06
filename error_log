@@ -1,0 +1,26 @@
+[23-Jan-2014 17:11:51 America/New_York] PHP Fatal error:  Call to a member function get() on a non-object in /home/ccit1581/public_html/CCT460/application/models/blog_model.php on line 5
+[30-Jan-2014 15:14:19 America/New_York] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 9
+[30-Jan-2014 15:19:11 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 10
+[30-Jan-2014 15:20:17 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 10
+[30-Jan-2014 15:22:29 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 10
+[30-Jan-2014 15:22:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 14
+[30-Jan-2014 15:23:30 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 15
+[30-Jan-2014 15:23:46 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 15
+[30-Jan-2014 15:23:52 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 15
+[30-Jan-2014 15:24:31 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 15
+[30-Jan-2014 15:25:52 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccit1581/public_html/CCT460/application/views/blog_view.php on line 15
+[30-Jan-2014 16:15:07 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 16
+[30-Jan-2014 16:16:06 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 21
+[30-Jan-2014 16:16:09 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 21
+[30-Jan-2014 16:19:50 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 21
+[30-Jan-2014 16:19:52 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 21
+[30-Jan-2014 16:20:39 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 21
+[30-Jan-2014 16:21:47 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:22:41 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:22:44 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:28:04 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:28:07 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:28:09 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:34:51 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[30-Jan-2014 16:36:12 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/ccit1581/public_html/CCT460/application/controllers/Admin.php on line 23
+[13-Feb-2014 16:30:16 America/New_York] PHP Fatal error:  Call to undefined function form_open_stacked() in /home/ccit1581/public_html/CCT460/application/views/admin_view.php on line 2
