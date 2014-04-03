@@ -1,7 +1,7 @@
 
-    <h1><?php echo $title; ?> | Admin</h1>
+    <h1><?php echo $title; ?> Update Your Challenge </h1>
     <?php foreach($post as $p): ?> 
-    <?php echo form_open('Admin/update_post/' . $p['id']) ?>
+    <?php echo form_open('update/update_post/' . $p['id']) ?>
        <label>Title</label>
        <input type="text" name="title" value= "<?php echo $p['title']; ?>">
 
